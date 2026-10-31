@@ -1,0 +1,1 @@
+{"name":"samen-diensten","version":"1.0.0","private":true,"type":"module","description":"Installeerbare offline dienstenkalender voor iPhone en Android, zonder abonnement.","scripts":{"test":"node --test tests/*.test.js","start":"python3 -m http.server 8080"}}
